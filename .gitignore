@@ -4,7 +4,6 @@
 *.RDS
 *.xlsx
 *.xls
-*.csv
 *.png
 *.jpg
 *.pdf
